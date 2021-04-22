@@ -23,6 +23,7 @@ Strong technical skills in building automation testing frameworks
  - UiKit / Autolayou
  - SOLID Principles
  - Architecture (MVC/MVP/MVVM)
+ - Architecture patterns
 
 ## Code examples
  - [Stonks](https://github.com/spyofmossad/Stonks)
